@@ -1,0 +1,84 @@
+html{
+    width: 100%;
+    background-color: rgb(85, 138, 235);
+}
+
+
+.msa{
+    margin-top: 400px;
+    background-color: transparent;
+  }
+
+  .displag{
+    font-style: italic;
+    font-size: 140px;
+  }
+  .iconla{
+    width: 30px;
+   
+  }
+  .btn-group{
+    margin-left: 1744px;
+
+  }
+  .btn-group, .btn-group-vertical {
+    position: relative;
+    margin-top: -1830px;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    
+}
+  .dropdown-item{
+    
+    background-color: rgb(85, 138, 235);
+    font-size: 15px;
+  }
+  .navboot{
+    background-color: rgb(85, 138, 235);
+    margin-top: 200px;
+    align-items: center;
+  }
+.nav-link{
+    color: aliceblue;
+    font-size: 40px;
+   
+}
+.bootnav{
+  background-color: rgb(85, 138, 235); 
+  margin-top: 2px;
+ 
+}
+btn-secondary:not(:disabled):not(.disabled).active:focus, .btn-secondary:not(:disabled):not(.disabled):active:focus, .show>.btn-secondary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgb(85 138 235);
+}
+.btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle {
+  color: rgb(255, 255, 255);
+  background-color: rgb(85 138 235);
+  border-color: rgb(85 138 235);
+}
+
+.btn-secondary {
+  color: #fff;
+  background-color: rgb(85 138 235);
+  border-color: rgb(85 138 235);
+  font-size: 45px;
+}
+.pica{
+  margin-left: 150px;
+}
+.displah{
+  margin-left: 1200px;
+  font-style: italic;
+    font-size: 80px;
+    align-self: center;
+}
+.araby{
+  margin-left: 1200px;
+}
+.bootna{
+  position: relative;
+  margin-left: 300px;
+}
+.nav-itema{
+  margin-left: 200px;
+}
